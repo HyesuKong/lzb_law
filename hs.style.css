@@ -38,7 +38,14 @@
 .secondnavbar{
     background-image: url('../images/other_links_background.jpg')
 }
+
 .hero-image {
     width: 65%;
 }
 
+             
+.divider1 {
+   color: lightgray;
+   padding: 10px;
+
+}
